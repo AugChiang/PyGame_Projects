@@ -3,7 +3,7 @@ Pygame lib practice of visulazing some algorithm or little game projects.
 
 1. Chess game:
    The first one who connect five chesses is the winner!!
-
+   Visualization: TBD
 2. Mine sweeper:
    Be careful the mines!!
    <br />
@@ -18,3 +18,4 @@ Pygame lib practice of visulazing some algorithm or little game projects.
    
 4. Sudoku solver:
    Trying to solve a sudoku, a number game which requires 1~9 in every row, column, and block.
+   Visualization: TBD
