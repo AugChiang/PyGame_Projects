@@ -13,7 +13,7 @@ Pygame lib practice of visulazing some algorithm or little game projects.
 3. Path finder:
    Visualization of finding the nearest path of two points assigned by the user.
    <br /> 
-   [![Watch the video](https://img.youtube.com/vi/AKbrLNcIIIo/0.jpg)](https://youtube.com/shorts/)
+   [![Watch the video](https://img.youtube.com/vi/AKbrLNcIIIo/0.jpg)](https://youtube.com/shorts/AKbrLNcIIIo)
    <br /> 
    
 4. Sudoku solver:
