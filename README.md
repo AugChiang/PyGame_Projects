@@ -5,7 +5,7 @@ Pygame lib practice of visulazing some algorithm or little game projects.
    The first one who connect five chesses is the winner!!
    Visualization: TBD
 2. Life of Game:
-   Simulation based on Convay's Life of Game
+   Simulation based on Conway's Game of Life
    <br/>
    [![Watch the video](https://img.youtube.com/vi/d-_3LAR9ghs/0.jpg)](https://www.youtube.com/shorts/d-_3LAR9ghs)
    <br/>
